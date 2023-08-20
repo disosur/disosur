@@ -1,1 +1,1 @@
-Product Designer and Front-end Developer
+Web developer
