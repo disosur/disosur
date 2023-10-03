@@ -7,9 +7,14 @@
 <h4 align="center">A web developer based in the Philippines🇵🇭 who's passionate about building things</h4>
 </div>
 
+<br />
+
+---
 <div align="center"><h2>Tech I use</h2></div>
 
 [![My Skills](https://skillicons.dev/icons?i=ts,nodejs,react,nextjs,svelte,express,tailwind,sass,mongodb,mysql,vite,vercel,figma)](https://skillicons.dev)
+
+---
 
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
