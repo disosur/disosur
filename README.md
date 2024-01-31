@@ -21,8 +21,4 @@
        alt="snake" /></a>
 </div>
 
-![disosur's Stats](https://github-readme-stats.vercel.app/api?username=disosur&theme=default&show_icons=true&hide_border=true&count_private=true)
-![disosur's Streak](https://github-readme-streak-stats.herokuapp.com/?user=disosur&theme=default&hide_border=true)
-<div align="center">Here's stats that don't matter but inspires me to be consistent :^D</div>
-
 
